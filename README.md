@@ -40,7 +40,7 @@ IT業界の新人として、積極的に業務に取り込み、今後の経験
 `HTML5` `CSS3` `JavaScript`
 
 ### ⚙️ バックエンド (BACKEND)
-`Java` `MyBatis`
+`Java` `JDBC` `MyBatis`
 
 ### 🚀 インフラ・デプロイ (INFRA & DEPLOY)
 `GitHub` `GitHub Pages`
