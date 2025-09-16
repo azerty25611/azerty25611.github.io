@@ -37,16 +37,16 @@ IT業界の新人として、積極的に業務に取り込み、今後の経験
 `Java` `Python` `JavaScript`
 
 ### 🎨 フロントエンド (FRONTEND)
-`HTML5` `CSS3` `JavaScript`
+`JavaScript` `HTML5` `CSS3`
 
 ### ⚙️ バックエンド (BACKEND)
-`Java` `JDBC` `MyBatis`
+`Java` `JDBC` `Spring` `MyBatis`
 
 ### 🚀 インフラ・デプロイ (INFRA & DEPLOY)
 `GitHub` `GitHub Pages`
 
 ### 🏗️ ツール・プラットフォーム (TOOLS & PLATFORMS)
-`Oracle` `Figma` `SQL Developer`
+`Oracle` `SQL Developer` `Eclipse` `Visual Studio Code` `Figma`
 
 <br>
 
